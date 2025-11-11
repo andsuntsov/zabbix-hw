@@ -21,7 +21,7 @@ sudo ufw allow 10051/tcp
 
 ```
 
-![скриншот авторизации в админке](https://github.com/andsuntsov/zabbix-hw/img/auth-zabbix.png)
+![скриншот авторизации в админке](https://github.com/andsuntsov/zabbix-hw/blob/main/img/auth-zabbix.png)
 
 ---
 
@@ -38,10 +38,10 @@ sudo ufw allow 10050/tcp
 
 ```
 
-![скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу](https://github.com/andsuntsov/zabbix-hw/img/hosts-status.png)
+![скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу](https://github.com/andsuntsov/zabbix-hw/blob/main/img/hosts-status.png)
 
-![скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/andsuntsov/zabbix-hw/img/agent-log.png)
+![скриншот лога zabbix agent, где видно, что он работает с сервером](https://github.com/andsuntsov/zabbix-hw/blob/main/img/agent-log.png)
 
-![скриншот раздела Monitoring > Latest data для zbx-server](https://github.com/andsuntsov/zabbix-hw/img/latest-data-zbx-server.png)
+![скриншот раздела Monitoring > Latest data для zbx-server](https://github.com/andsuntsov/zabbix-hw/blob/main/img/latest-data-zbx-server.png)
 
-![скриншот раздела Monitoring > Latest data для zbx-agent-2](https://github.com/andsuntsov/zabbix-hw/img/latest-data-zbx-agent-2.png)
+![скриншот раздела Monitoring > Latest data для zbx-agent-2](https://github.com/andsuntsov/zabbix-hw/blob/main/img/latest-data-zbx-agent-2.png)
